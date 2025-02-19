@@ -51,17 +51,17 @@
   <div id="pie">
     <div class="col_pie">
       <h4>Sobre este sitio</h4>
-      <p>Propiedad de : Nombre Apellido</p>
-      <p>Webmaster: Nombre Apellido</p>
+      <p>Propiedad de : Eduardo Pineda</p>
+      <p>Webmaster: Eduardo Pineda</p>
     </div>
     <div class="col_pie">
       <h4>Contactos</h4>
-      <p>Email : miemail@servidor.com</p>
-      <p>Teléfono: 900-00-00-00</p>
+      <p>Email : 22191063@cobachih.edu.mx</p>
+      <p>Teléfono: 656-748-8406</p>
     </div>
     <div class="col_pie">
       <h4>En las redes</h4>
-      <p>Facebook : (dirección de Facebook)</p>
+      <p>Facebook : ()</p>
       <p>Twitter: (dirección de Twitter)</p>
     </div>
     <div class="vacio"></div>
